@@ -32,14 +32,14 @@ export default function Depoimentos() {
     return (
         <Container>
             <Titulo>Depoimentos</Titulo>
-            <Texto>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</Texto>
-            <Subtitulo>Júlio, 40 anos, São Paulo/SP.</Subtitulo>
+            <Texto>Minha experiência na Clínica Voll foi incrível. A equipe é atenciosa e os profissionais são altamente qualificados. Senti-me confortável e bem cuidada durante todo o processo.</Texto>
+            <Subtitulo>Maria Silva, 35 anos, Itaim/SP.</Subtitulo>
             <Linha />
-            <Texto>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</Texto>
-            <Subtitulo>Júlio, 40 anos, São Paulo/SP.</Subtitulo>
+            <Texto>Recomendo a Clínica Voll para todos que buscam um atendimento de qualidade. A estrutura é moderna, e o atendimento personalizado fez toda a diferença na minha jornada de cuidados com a saúde.</Texto>
+            <Subtitulo>João Santos, 42 anos, São Paulo/SP.</Subtitulo>
             <Linha />
-            <Texto>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</Texto>
-            <Subtitulo>Júlio, 40 anos, São Paulo/SP.</Subtitulo>
+            <Texto>Estou muito satisfeita com os serviços da Clínica Voll. Desde a recepção até a consulta, fui tratada com respeito e profissionalismo. Encontrei exatamente o que precisava para minha saúde e bem-estar</Texto>
+            <Subtitulo>Ana Oliveira, 28 anos, Osasco/SP.</Subtitulo>
             <Linha />
         </Container>
     )
